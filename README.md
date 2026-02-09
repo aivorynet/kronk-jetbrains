@@ -142,6 +142,3 @@ This repository is the public issue tracker for the Kronk CMS JetBrains plugin. 
 - **CLI (GitHub):** [aivorynet/kronk-cms](https://github.com/aivorynet/kronk-cms)
 - **Company:** [AIVory, Inc.](https://aivory.net)
 
-## License
-
-MIT License -- see [LICENSE](LICENSE) for details.
