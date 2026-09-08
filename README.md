@@ -1,3 +1,5 @@
+![Rating](https://img.shields.io/jetbrains/plugin/r/stars/29886) ![Downloads](https://img.shields.io/jetbrains/plugin/d/29886) ![Version](https://img.shields.io/jetbrains/plugin/v/29886)
+
 <p align="center">
   <img alt="Kronk CMS" src="https://plugins.jetbrains.com/files/29886/950671/icon/default.svg" width="80">
 </p>
